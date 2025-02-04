@@ -15,7 +15,7 @@ SOCIAL_MEDIA_SITES = [
 ]
 
 # Path to the hosts file
-HOSTS_PATH = r"C:\Windows\System32\drivers\etc\hosts"  # For Windows
+HOSTS_PATH = r"C:\Windows\System32\drivers\etc\hosts" 
 
 # IP address to redirect blocked sites to
 REDIRECT_IP = "127.0.0.1"
